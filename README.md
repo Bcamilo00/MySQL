@@ -13,7 +13,7 @@ WHERE (Continent, Population) IN (
     ) AS Ranked
     WHERE RowNum <= 5
 );
-[![intermedia-1.png]([https://i.postimg.cc/PfzbLzQj/intermedia-1.png)](https://postimg.cc/hhvQ6mYy](https://github.com/Bcamilo00/MySQL/blob/main/intermedia_1.png))
+[![intermedia-1.png](https://github.com/Bcamilo00/MySQL/blob/7659c3dd7b831ed5253e5ba3c83522b7350b97af/intermedia_1.png)
 ### Listar países que usan más de un idioma
 SELECT country.Name
 FROM country
