@@ -6,9 +6,9 @@ La base de datos "WORLD" resulta especialmente interesante para este ejercicio y
 A lo largo del trabajo se explorarán diferentes aspectos de MySQL, como el uso de funciones de agregación, subconsultas, joins entre tablas y funciones de ventana, demostrando así la versatilidad y potencia de este sistema de gestión de bases de datos.
 ## Consultas Basicas
 ### Selección de países en el continente 'Asia'
-
+```sql
 SELECT Name FROM Country WHERE Continent = 'Asia';
-
+```
 ![Ejemplo1_Basicas](https://github.com/Bcamilo00/MySQL/blob/main/basica_1.png)
 
 ### Contar el número total de ciudades
